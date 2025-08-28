@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Jason Naicker
 
-🎮 **Aspiring Game Developer | AI & ML Enthusiast | C#, Python & Java Programmer**
+🎮 **Aspiring AI & ML Developer | Java, Python and Luau Programmer. | Roblox/Unity Developer**
 
 ---
 
 ## 👀 About Me
-I’m passionate about **C#, Java, Python**, and **Machine Learning**, with a strong focus on **Unity** and **Roblox Game Development**.  
+I’m passionate about **Luau, Java, Python**, and **Machine Learning**, with a strong focus on **Unity** and **Roblox Game Development**.  
 
 🌱 Currently diving deeper into **Machine Learning** and AI-driven projects.  
 
@@ -22,7 +22,3 @@ I’m passionate about **C#, Java, Python**, and **Machine Learning**, with a st
 ## ⚡ Fun Facts
 - Pronouns: **He/Him**  
 - I enjoy **creating 3D models** for video games and bringing worlds to life!  
-
----
-
-> “Strive for progress, not perfection.” 🚀
