@@ -1,14 +1,14 @@
-# 👋 Hello, I'm Jason Naicker  
+#  Hello, I'm Jason Naicker  
 
 🎮 **Aspiring AI & ML Developer | Java, Python & Luau Programmer | Roblox/Unity Developer**  s
 
 ---
 
-## 👀 About Me  
+## About Me  
 I’m passionate about **Luau, Java, Python**, and **Machine Learning**, with a strong focus on **Unity** and **Roblox Game Development**.  
 
-🌱 Currently learning about **Machine Learning** and AI-driven projects.  
-💞️ I love collaborating on **Roblox projects** — hit me up on Twitter! [@FlamerDraco](https://twitter.com/FlamerDraco).  
+Currently learning about **Machine Learning** and AI-driven projects.  
+I love collaborating on **Roblox projects** — hit me up on Twitter! [@FlamerDraco](https://twitter.com/FlamerDraco).  
 
 ---
 
