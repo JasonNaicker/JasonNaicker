@@ -8,7 +8,7 @@
 I’m passionate about **Luau, Java, Python**, and **Machine Learning**, with a strong focus on **Unity** and **Roblox Game Development**.  
 
 Currently learning about **Machine Learning** and AI-driven projects.  
-I love collaborating on **Roblox projects** — hit me up on Twitter! [@FlamerDraco](https://twitter.com/FlamerDraco).  
+I love collaborating on **Roblox projects**  
 
 ---
 
