@@ -5,7 +5,7 @@
 ---
 
 ## About Me  
-I’m passionate about **Luau, Java, Python**, and **Machine Learning**, with a strong focus on **Unity** and **Roblox Game Development**.  
+I’m passionate about **Luau, Java, Python, C++**, and **Machine Learning**, with a strong focus on **Unity** and **Roblox Game Development**.  
 
 Currently learning about **Machine Learning** and AI-driven projects.  
 I love collaborating on **Roblox projects**  
